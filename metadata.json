@@ -1,0 +1,7 @@
+{
+  "name": "TipJoyo - Jual Beli Sayur Keliling",
+  "description": "A modern web application that connects mobile vegetable vendors with customers. Merchants can manage stock and track sales, while customers can locate nearby vendors in real-time and place pre-orders.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
